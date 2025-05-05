@@ -3,9 +3,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Red%20Hat-Solutions%20Architect-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ansible-Automation-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI-Open%20Shift%20AI-EE0000?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Orchestration-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Automation-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI-Open%20Shift%20AI-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
 </p>
 
 ---
